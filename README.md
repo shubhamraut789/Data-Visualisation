@@ -18,7 +18,8 @@ to predict personality scores. They employed machine learning models wherein
 The researchers now want to visualize the results to showcase how each
 of these joints contributes to predicting each of the five personality scores.
 Pick two ways to visualize this data and justify why one would be superior.
-                3 Data Plotting Adventure
+
+              3 Data Plotting Adventure
 3.1 Subtask 1: The Last of Us
 You’re part of a research team analyzing the survival outcomes of individuals
 in different types of locations during a zombie apocalypse. The goal is to understand where survival chances are highest and what the common outcomes
